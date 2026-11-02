@@ -77,14 +77,6 @@ Atuar como **Analista de Cibersegurança** (SOC / Blue Team), investigando alert
 - [ ] Publicar meu primeiro relatório de incidente (em ambiente de laboratório)
 - [ ] Estudar para certificações de entrada (Security+, CySA+ ou eJPT)
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CarvalhoFnix&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-
-</div>
-
 ### 🤝 Vamos conversar
 
 Estou aprendendo e adoro trocar ideias sobre segurança, Linux e tecnologia.
