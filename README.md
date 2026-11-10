@@ -18,7 +18,7 @@
 
 ```text
 carvalho@fnix ------------------------------------
-OS:        GNU/Linux, Windows
+OS:        GNU/Linux e Windows
 Host:      Faculdade de Análise e Desenvolvimento de Sistemas
 Kernel:    Futuro Analista de Cibersegurança
 
